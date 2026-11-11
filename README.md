@@ -1,18 +1,22 @@
 # Hi, I'm Ahmed 👋
 
-Full-stack web developer building web applications end to end. My day-to-day work centres on **Laravel** (PHP) on the backend and **Vue.js** on the frontend, with a wide range of other tools along the way.
+Full-stack developer and Master's student at **Georgia Tech**, focused on **machine learning and AI**. I build web applications end to end, with **Laravel** (PHP) and **Vue.js** as my everyday stack.
 
 ## 🔭 What I'm working on
 
-- **Sports tracking:** a wearable tracker, its mobile app and backend (Expo / Supabase)
-- **Business web apps:** dashboards, portals and internal tools
-- **Side projects:** experiments with IoT, PWAs and data
+- **Machine learning and AI:** applied models, computer vision and data pipelines
+- **Web applications:** dashboards, portals and internal tools
 
 ## 🛠 Stack
 
-- **Backend:** Laravel, PHP, Node.js (Express), Supabase
-- **Frontend:** Vue.js, Nuxt, React Native / Expo, TypeScript
-- **Other:** Firebase, MQTT, ESP32, Python (OpenCV), Git and GitHub
+- **AI / ML:** Python, PyTorch, OpenCV, scikit-learn
+- **Backend:** Laravel, PHP, Node.js, PostgreSQL
+- **Frontend:** Vue.js, Nuxt, TypeScript
+- **Other:** Git and GitHub, Docker
+
+## 🎓 Education
+
+- Master's, Georgia Tech
 
 ## 📫 Get in touch
 
